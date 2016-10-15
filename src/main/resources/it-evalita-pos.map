@@ -1,0 +1,34 @@
+# Evalita pos tagset
+#
+# PUNCTtuation mark, comma
+*=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS
+PUNCT=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.PUNCT
+SYM=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.SYM
+CONJ=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.CONJ
+SCONJ=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.SCONJ
+
+ADJ=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.ADJ
+ADV=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.ADV
+ADP=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.ADP
+ADP_A=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.ADP
+
+DET=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.DET
+
+NUM=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.NUM
+
+NOUN=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.NOUN
+PROPN=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.PROPN
+
+PRON=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.PRON
+
+VERB=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.VERB
+VERB_CLIT=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.VERB
+AUX=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.AUX
+
+MENTION=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.X
+HASHTAG=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.X
+URL=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.X
+EMO=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.X
+INTJ=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.INTJ
+X=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.X
+PART=de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.PART
